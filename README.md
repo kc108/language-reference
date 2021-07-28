@@ -4,3 +4,7 @@
 
 - Eleventy SSG
 - Nunjucks Template Language
+
+## Run app using the following command:
+
+- npm start
