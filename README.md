@@ -8,3 +8,7 @@
 ## Run app using the following command:
 
 - npm start
+
+---
+
+##
