@@ -16,3 +16,4 @@
 - Third-Party API using Axios - npm i --save axios
 - installed 'dotenv' via npm i --save dotenv
 - added .env variable to Netlify under Deploy Settings
+- added redirect via Netlify documentation (by country or language)
