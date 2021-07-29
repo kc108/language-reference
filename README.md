@@ -14,3 +14,4 @@
 ## Thursday, July 29th
 
 - Third-Party API using Axios - npm i --save axios
+- installed 'dotenv' via npm i --save dotenv
