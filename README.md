@@ -11,4 +11,6 @@
 
 ---
 
-##
+## Thursday, July 29th
+
+- Third-Party API using Axios - npm i --save axios
